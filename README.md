@@ -18,9 +18,9 @@
 
 ## Team Background Information:
 We're Bhudit, Saknun, and Norapat, seniors at Yothinburana School. We've been a team since we first met in the YB Robot Club back in grade 7, and we've been working together ever since.
-<br>
+<br><br>
 Saknun is our go-to engineer, with a talent for crafting intricate mechanical designs that are as reliable as they are innovative. Bhudit, our coding genius, brings our creations to life with precise and efficient programming. Norapat, our strategist, ensures that every robot we build is not just functional, but optimized to win. Together we are team YBR-JSF.
 Over the years, we've spent countless afternoons and weekends in the school's robotics lab, fine-tuning our skills and pushing the boundaries of what's possible. We've competed in local robotics competitions, learning valuable lessons from each challenge we faced.
 Our goal this year is clear: we want to qualify for the international competition in Turkey. Last year, we came close but missed out. This time, we're more determined than ever. We've spent our summer break improving our robots, learning new techniques, and strengthening our teamwork.
-<br>
+<br><br>
 As we enter our final year at Yothinburana School, we're ready to show the world what Team YBR-JSF is made of. With the support of our classmates and mentors, we're confident that this year will be our year to shine in the world of robotics.
