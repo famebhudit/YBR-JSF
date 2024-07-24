@@ -60,5 +60,6 @@ This shield includes 3 Xbee slots, 1 microSD slot, Arduino shield headers to plu
 Motor shield allows Arduino to drive two channel DC motors, which uses a L298N chip which deliveries output current up to 2A each channel. Motor Driven Voltage is 4.8V to 35V, which driven in Dual full-bridge driver. The control function can be separated into two types, namely En and Mn, which are provided in the tables below.
 <br><br>
 
-<img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-23%20183442.png?raw=true" alt="2x2A Motor Shield" width="400" height="300">
+<img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-23%20183550.png?raw=true" alt="2x2A Motor Shield" width="400" height="300">
 <br><br>
+<img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-23%20183442.png?raw=true" alt="2x2A Motor Shield" width="400" height="300">
