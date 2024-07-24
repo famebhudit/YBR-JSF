@@ -34,7 +34,7 @@ Outside formal sessions, we maintain open communication, sharing resources and f
 
 # <span style="font-size: 300px;">Portion 2: Our Robot Hardware</span>
 ## 1. Main controller
-### <span style="text-decoration: underline;">ARDUINO MEGA</span>: Arduino Mega 2560
+### <u>ARDUINO MEGA: Arduino Mega 2560</u>
 <br><br>
 <p align="center">
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_MEGA_A01.png" alt="YB Robot Logo" width="500" height="300">
@@ -46,3 +46,9 @@ The Arduino Mega 2560 is a robust microcontroller board based on the ATmega2560 
 
 ## 2. Board Extension
 ### <u>Gravity: IO Sensor Shield For Arduino Mega</u>
+<br><br>
+<p align="center">
+  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_MEGA_A01.png" alt="YB Robot Logo" width="500" height="300">
+</p>
+<br><br>
+<ins>hi</ins>
