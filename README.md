@@ -37,7 +37,7 @@ Outside formal sessions, we maintain open communication, sharing resources and f
 ### <ins>ARDUINO MEGA: Arduino Mega 2560</ins>
 <br><br>
 <p align="center">
-  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_MEGA_A01.png" alt="YB Robot Logo" width="500" height="300">
+  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_MEGA_A01.png" alt="Arduino Mega 2560" width="500" height="300">
 </p>
 <br><br>
 The Arduino Mega 2560 is a robust microcontroller board based on the ATmega2560 chip, running at 16 MHz. It features 256 KB of Flash memory (with 8 KB used by the bootloader), 8 KB of SRAM, and 4 KB of EEPROM. With 54 digital I/O pins (including 15 PWM outputs) and 16 analog inputs, it supports a wide range of sensors and actuators. Communication interfaces include UART, SPI, and I2C, alongside USB for programming and serial communication. Operating at 5V, it's compatible with Arduino shields and widely used in robotics, automation, and complex sensor applications, supported by a vibrant Board Extension community.
@@ -47,6 +47,16 @@ The Arduino Mega 2560 is a robust microcontroller board based on the ATmega2560 
 ## 2. Board Extension
 ### <ins>Gravity: IO Sensor Shield For Arduino Mega</ins>
 <p align="center">
-  <img src="https://www.botnroll.com/18911-medium_default/shield-de-expancao-de-entradas-e-saidas-para-arduino-mega.jpg" alt="YB Robot Logo" width="450" height="400">
+  <img src="https://www.botnroll.com/18911-medium_default/shield-de-expancao-de-entradas-e-saidas-para-arduino-mega.jpg" alt="IO Sensor Shield" width="450" height="400">
 </p>
+<br><br>
+This shield includes 3 Xbee slots, 1 microSD slot, Arduino shield headers to plugin most Arduino Shields. It also includes a prototyping area and breakouts for Digital pins 14 to 53, Analog pins 6 to 15 and PWM pins 2 to 9.
+<br><br>  
+
+### <ins>Gravity: 2x2A Motor Shield for Arduino Twin</ins>
+<p align="center">
+  <img src="https://images.prom.ua/4596325232_w640_h640_gravity-2x2a.jpg" alt="2x2A Motor Shield" width="450" height="400">
+</p>
+<br><br>
+Motor shield allows Arduino to drive two channel DC motors, which uses a L298N chip which deliveries output current up to 2A each channel. Motor Driven Voltage is 4.8V to 35V, which driven in Dual full-bridge driver. The control function can be separated into two types, namely En and Mn, which are provided in the tables below.
 <br><br>
