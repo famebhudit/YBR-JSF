@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 48px;">WRO 2024 Future Engineer</span>
+  <span style="font-size: 480px;">WRO 2024 Future Engineer</span>
 </p>
 
 <p align="center">
