@@ -48,6 +48,6 @@ The Arduino Mega 2560 is a robust microcontroller board based on the ATmega2560 
 ### <ins>Gravity: IO Sensor Shield For Arduino Mega</ins>
 <br><br>
 <p align="center">
-  <img src="https://www.botnroll.com/18911-medium_default/shield-de-expancao-de-entradas-e-saidas-para-arduino-mega.jpg" alt="YB Robot Logo" width="500" height="300">
+  <img src="https://www.botnroll.com/18911-medium_default/shield-de-expancao-de-entradas-e-saidas-para-arduino-mega.jpg" alt="YB Robot Logo" width="400" height="400">
 </p>
 <br><br>
