@@ -34,10 +34,15 @@ Outside formal sessions, we maintain open communication, sharing resources and f
 
 # <span style="font-size: 300px;">Portion 2: Our Robot Hardware</span>
 ## 1. Main controller
-### <u>ARDUINO MEGA: Arduino Mega 2560</u>
+### <span style="text-decoration: underline;">ARDUINO MEGA</span>: Arduino Mega 2560
 <br><br>
 <p align="center">
   <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_MEGA_A01.png" alt="YB Robot Logo" width="500" height="300">
 </p>
 <br><br>
 The Arduino Mega 2560 is a robust microcontroller board based on the ATmega2560 chip, running at 16 MHz. It features 256 KB of Flash memory (with 8 KB used by the bootloader), 8 KB of SRAM, and 4 KB of EEPROM. With 54 digital I/O pins (including 15 PWM outputs) and 16 analog inputs, it supports a wide range of sensors and actuators. Communication interfaces include UART, SPI, and I2C, alongside USB for programming and serial communication. Operating at 5V, it's compatible with Arduino shields and widely used in robotics, automation, and complex sensor applications, supported by a vibrant Board Extension community.
+<br><br>
+
+
+## 2. Board Extension
+### <u>Gravity: IO Sensor Shield For Arduino Mega</u>
