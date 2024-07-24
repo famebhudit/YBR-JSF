@@ -55,8 +55,14 @@ This shield includes 3 Xbee slots, 1 microSD slot, Arduino shield headers to plu
 
 ### <ins>Gravity: 2x2A Motor Shield for Arduino Twin</ins>
 <p align="center">
-  <img src="https://images.prom.ua/4596325232_w640_h640_gravity-2x2a.jpg" alt="2x2A Motor Shield" width="300" height="250">
+  <img src="https://images.prom.ua/4596325232_w640_h640_gravity-2x2a.jpg" alt="2x2A Motor Shield" width="300" height="300">
 </p>
-<br><br>
 Motor shield allows Arduino to drive two channel DC motors, which uses a L298N chip which deliveries output current up to 2A each channel. Motor Driven Voltage is 4.8V to 35V, which driven in Dual full-bridge driver. The control function can be separated into two types, namely En and Mn, which are provided in the tables below.
 <br><br>
+
+- Control Function Table:
+| Name    | Value                       |
+|-------------------|-------------------|
+| EN           | Mn Speed control(PWM)  |
+|-------------------|-------------------|
+| MN           | Mn Direction Control  |
