@@ -4,6 +4,8 @@
   <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" alt="YB Robot Logo" width="300" height="250">
 </p>
 
+<br>
+<br>
 
 # <span style="font-size: 300px;">Portion 1: Insights into our team</span>
 ## Team Member:
