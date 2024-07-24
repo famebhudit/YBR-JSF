@@ -6,4 +6,8 @@
 
 ---
 
-## <span style="font-size: 300px;">Portion 1: Insights into our team</span>
+# <span style="font-size: 300px;">Portion 1: Insights into our team</span>
+
+---
+
+## <span style="font-size: 300px;">Team Member:</span>
