@@ -61,7 +61,8 @@ Motor shield allows Arduino to drive two channel DC motors, which uses a L298N c
 <br><br>
 
 - Control Function Table:
-<img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-24%20184221.png?raw=true" alt="Function Table" width="400" height="300">
+<img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-24%20184221.png?raw=true" alt="Function Table" width="400" height="200">
 <br><br>
+
 - Control Signal Truth Table:
-<img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-24%20184316.png?raw=true" alt="Signal Truth Table" width="400" height="300">
+<img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-24%20184316.png?raw=true" alt="Signal Truth Table" width="400" height="200">
