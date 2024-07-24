@@ -37,6 +37,6 @@ Outside formal sessions, we maintain open communication, sharing resources and f
 ###   ARDUINO MEGA: Arduino Mega 2560
 <br><br>
 <p align="center">
-  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_MEGA_A03.png" alt="YB Robot Logo" width="500" height="250">
+  <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_MEGA_A01.png" alt="YB Robot Logo" width="500" height="250">
 </p>
 <br><br>
