@@ -73,5 +73,5 @@ Motor shield allows Arduino to drive two channel DC motors, which uses a L298N c
 ### <ins>LEGO® Power Functions L-Motor</ins>
 <br><br>
 <p align="center">
-<img src= "https://www.lego.com/cdn/cs/set/assets/blt3289051a0e80fa54/88003.jpg?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5" alt="Signal Truth Table" width="500" height="350">
+<img src= "https://www.lego.com/cdn/cs/set/assets/blt3289051a0e80fa54/88003.jpg?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5" alt="Signal Truth Table" width="600" height="350">
 </p>
