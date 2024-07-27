@@ -85,4 +85,4 @@ The LEGO® Power Functions L-Motor is designed to motorize large LEGO builds. It
 <img src= "https://i.ebayimg.com/images/g/VtMAAOSwZ9VfPQUW/s-l500.jpg" alt="Signal Truth Table" width="500" height="450">
 </p>
 
--  
+- Electric Specifications
