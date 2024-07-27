@@ -81,7 +81,6 @@ The LEGO® Power Functions L-Motor is designed to motorize large LEGO builds. It
 
 ## 4. Servo
 ### <ins>Geekservo 2kg 360 Degrees Rotation Servo</ins>
-<br><br>
 <p align="center">
 <img src= "https://i.ebayimg.com/images/g/VtMAAOSwZ9VfPQUW/s-l500.jpg" alt="Signal Truth Table" width="500" height="450">
 </p>
