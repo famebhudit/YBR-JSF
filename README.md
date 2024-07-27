@@ -76,4 +76,12 @@ Motor shield allows Arduino to drive two channel DC motors, which uses a L298N c
 <img src= "https://www.lego.com/cdn/cs/set/assets/blt3289051a0e80fa54/88003.jpg?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5" alt="Signal Truth Table" width="600" height="350">
 </p>
 The LEGO® Power Functions L-Motor is designed to motorize large LEGO builds. It has a speed of 380 rpm and have ability to spin wheels and turn gears, with more power and speed than the standard M-Motor.
+<br></br>
 
+
+## 4. Servo
+### <ins>Geekservo 2kg 360 Degrees Rotation Servo</ins>
+<br><br>
+<p align="center">
+<img src= "https://i.ebayimg.com/images/g/VtMAAOSwZ9VfPQUW/s-l500.jpg" alt="Signal Truth Table" width="400" height="350">
+</p>
