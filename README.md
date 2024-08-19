@@ -7,6 +7,46 @@
 <br>
 <br>
 
+# Introduction
+This document contains the engineering materials for the autonomous vehicle robot model created for the 2024 WRO Future Engineers competition. It includes documentation, design schematics, programming code, and other technical resources essential for understanding the robot's design and functionality.
+
+# Content
+`Portion 1: Insights into our team` This portion contains the key information about our team.
+
+-Team Member
+
+-Team Background Information
+
+`Portion 2: Our Robot Hardware` This portion contains the key components opf our robot.
+
+-Main controller
+
+-Board Extension
+
+-Driving Motor
+
+-Servo
+
+-Step-Down
+
+-Compass
+
+-Button
+
+-Switch
+
+-Camera
+
+-Ultrasonic
+
+-Sensor
+
+`Portion 3: Obstacle management` This portion explains how the robot manages the obtacles.
+
+-Challenges
+
+-Code
+
 # <span style="font-size: 300px;">Portion 1: Insights into our team</span>
 ## Team Member:
 
@@ -88,3 +128,95 @@ The LEGO® Power Functions L-Motor is designed to motorize large LEGO builds. It
 - Electric Specifications
 <img src="https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-07-27%20101426.png?raw=true" alt="Electric Spec" width="650" height="300">
 <br><br>
+
+## 5.Step-Down
+### <ins>Step Down Module 12 V to 5 V Size 5 A</ins>
+
+<p align="center">
+<img src= "https://gd.lnwfile.com/_/gd/_raw/kz/77/it.jpg" alt="Signal Truth Table" width="500" height="350">
+</p>
+A step-down converter is a DC-to-DC converter which decreases voltage, while increasing current, from its input (supply) to its output (load). The efficiency of step-down converters can be very high, often over 90%, making them useful for tasks such as converting a computer's main supply voltage, which is usually 12 V, down to lower voltages needed by USB, DRAM and the CPU, which are usually 5, 3.3 or 1.8 V.
+<br></br>
+
+## 6.Compass
+### <ins>GY-25 Tilt sensor module</ins>
+
+<p align="center">
+<img src= "https://electropeak.com/pub/media/catalog/product/cache/95f75205f3b943f313b30831421df8c2/s/e/sen-02-007-1-mpu6050-gy-25-three.jpg" alt="Signal Truth Table" width="350" height="350">
+</p>
+The GY-25 MPU6050 3-Axis Gyroscope Sensor Module offers high-resolution tilt angle measurements using a 3V-5V MPU6050 chip. It integrates a gyroscope, accelerometer, and Digital Motion Processor™ for 9-axis data and supports additional sensors via I2C. Ideal for enhancing devices in health, fitness, and location-based applications.
+<br></br>
+
+## 7.Button
+### <ins>ZX-Switch01</ins>
+<br>
+<p align="center">
+<img src= "https://inex.co.th/home/wp-content/uploads/2020/07/zx-switch01.jpg" alt="Signal Truth Table" width="350" height="350">
+</p>
+When the ZX-Switch01 is pressed, the DATA pin has logic “1” from R2 connected to the pull-up. When the switch is pressed, the DATA pin becomes “0” because the switch is shorted to ground. The DATA pin can be used as an input.
+<br></br>
+
+## 8.Switch
+### <ins>Everyday switch</ins>
+<br>
+<p align="center">
+<img src= "https://www.codrey.com/wp-content/uploads/2019/10/Rocker-Switch.jpg" alt="Signal Truth Table" width="350" height="350">
+</p>
+A regular everyday switch. This is used for cutting power from the battery to the robot.
+<br></br>
+
+## 9.Camera
+### <ins>OpenMV H7 camera</ins>
+<br>
+<p align="center">
+<img src= "https://o.lnwfile.com/_/o/_raw/pm/nx/ez.jpg" alt="Signal Truth Table" width="350" height="350">
+</p>
+The OpenMV Cam is a small, low-power microcontroller board for machine vision. It uses Python scripts through MicroPython, making complex tasks easier to manage. You control the board and its I/O pins fully with Python. It supports image and video capture triggered by external events. You can also use machine vision algorithms to control I/O pins.
+<br></br>
+
+## 10.Ultrasonic
+### <ins>URM09 Ultrasonic Distance Sensor</ins>
+<br><br>
+<p align="center">
+<img src= "https://dfimg.dfrobot.com/store/data/SEN0307/SEN0307.jpg?imageView2/1/w/564/h/376" width="400" height="250">
+</p>
+The DFRobot URM09 is an ultrasonic sensor designed for quick ranging and obstacle avoidance. It measures distances up to 500 cm with a frequency of up to 30Hz and features built-in temperature compensation and analog output. Compatible with Arduino, Raspberry Pi, and other 3.3V or 5V logic boards, it offers accurate distance measurements.
+<br></br>
+
+## 11.Sensor
+### <ins>ZX-03R</ins>
+<br>
+<p align="center">
+<img src= "https://inex.co.th/home/wp-content/uploads/2020/07/zx_03r.jpg" width="250" height="250">
+</p>
+The sensor uses a high-brightness red LED and a SFH310 photo transistor to detect red light reflected from objects. The amount of detected light depends on the object's ability to reflect red light, which varies with surface texture and color. Smooth, white objects reflect more light, resulting in a higher output voltage.
+<br></br>
+
+### <ins>ZX-03B</ins>
+<br>
+<p align="center">
+<img src= "https://inex.co.th/home/wp-content/uploads/2020/07/zx-03b.jpg" width="250" height="250">
+</p>
+The sensor detects light reflections to differentiate between light and dark surfaces. The ZX-03B with a blue LED is best for surfaces that absorb light or have blue hues, while other ZX-03 models distinguish between white and black. Readings vary based on surface texture, distance (typically 3-15 mm), and external light interference.
+<br></br>
+
+# <span style="font-size: 300px;">Portion 3: Obstacle management</span>
+## Challenges 
+We use OpenMV IDE and Arduino IDE. The programming is organized into two parts: Open Challenge & Obstacle Challenge.
+### 1.Open Challenge
+In open challenges, the bottom OpenMV H7 camera helps the robot determine its direction of movement: it will proceed clockwise if the camera detects an orange line and counterclockwise if it detects a blue line. 
+
+Gyro sensors ensure that the robot maintains a straight path and makes precise turns. 
+
+Additionally, the left and right ultrasonic sensors measure the distance between the robot and the walls, allowing the steering to make adjustments to prevent collisions as the robot approaches the wall.
+### 2.Obstacle challenge
+The primary sensor helping the robot in this challenge is the OpenMV H7 camera. The lower OpenMV H7 camera detects traffic signs; if it identifies a red sign, the robot will turn right, and if it detects a green sign, it will also turn accordingly.
+
+Additionally, the bottom OpenMV H7 camera helps the robot follow the colored lines on the map. If the robot encounters an orange line, it will turn clockwise; if it encounters a blue line , it will turn counterclockwise.
+
+The gyro sensors continue to ensure that the robot travels in a straight line and maintains precise control when turning.
+## Code
+
+## Credits
+
+We sincerely appreciate LEGO Education for their invaluable support and commitment to providing us with high-quality LEGO EV3 sets. Our gratitude also extends to the team sponsors: Premier of Sarawak; Ministry of Education Innovation and Talent Development Sarawak (MEITD); Yayasan Sarawak; Welfield Services SB; YB Mayor Adam Yii Siew Sang; and Alumni IPGKS-IPS-MPS.
