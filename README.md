@@ -240,13 +240,12 @@ This Section provides a basic explanation of the code that is used in the robot
 
 3. Turning: The robot uses the bottom sensor to check the color line on the map. The information is used to determine the heading of the robot. The robot will run clockwise if it detects the orange line first and vice versa for the blue line.
 <p align="center">
-<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011846.png" width="400" height="550">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011846.png" width="400" height="580">
 </p>
 
 <br></br>
 
 (b) Obstacle Challenge
-
 <br></br>
 1. Getting direction: The robot uses the gyro sensor to get the heading direction.
 <p align="center">
@@ -267,10 +266,15 @@ This Section provides a basic explanation of the code that is used in the robot
 
 3. Turning: The robot uses the bottom sensor to check the color line on the map. The information is used to determine the heading of the robot. The robot will run clockwise if it detects the orange line first and vice versa for the blue line.
 <p align="center">
-<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011846.png" width="400" height="550">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011846.png" width="400" height="580">
 </p>
 
 <br></br>
+
+4. Avoid Pillars: The robot uses the OpenMV Camera to detect the presence of the pillars. If the pillar is red, the steering will turn right. The same concept happens and vice versa on the green pillars.
+<p align="center">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20014113.png" width="450" height="350">
+</p>
 
 ## Credits
 
