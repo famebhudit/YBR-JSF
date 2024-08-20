@@ -273,7 +273,7 @@ This Section provides a basic explanation of the code that is used in the robot
 
 4. Avoid Pillars: The robot uses the OpenMV Camera to detect the presence of the pillars. If the pillar is red, the steering will turn right. The same concept happens and vice versa on the green pillars.
 <p align="center">
-<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20014113.png" width="450" height="350">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20014113.png" width="650" height="320">
 </p>
 
 ## Credits
