@@ -220,6 +220,14 @@ The gyro sensors continue to ensure that the robot travels in a straight line an
 This Section provides a basic explanation of the code that is used in the robot
 <br></br>
 (a) Open Challenge
+<br></br>
+1. Getting direction: The robot uses the gyro sensor to get the heading direction.
+<p align="left">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20005314.png" width="250" height="250">
+</p>
+<p align="right">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20005338.png" width="250" height="250">
+</p>
 
 ## Credits
 
