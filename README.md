@@ -217,6 +217,10 @@ Additionally, the bottom OpenMV H7 camera helps the robot follow the colored lin
 The gyro sensors continue to ensure that the robot travels in a straight line and maintains precise control when turning.
 ## Code
 
+This Section provides a basic explanation of the code that is used in the robot
+<br></br>
+(a) Open Challenge
+
 ## Credits
 
 We sincerely appreciate LEGO Education for their invaluable support and commitment to providing us with high-quality LEGO EV3 sets. Our gratitude also extends to the team sponsors: Premier of Sarawak; Ministry of Education Innovation and Talent Development Sarawak (MEITD); Yayasan Sarawak; Welfield Services SB; YB Mayor Adam Yii Siew Sang; and Alumni IPGKS-IPS-MPS.
