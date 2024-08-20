@@ -226,7 +226,7 @@ This Section provides a basic explanation of the code that is used in the robot
 <img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20005314.png" width="250" height="280">
 </p>
 <p align="center">
-<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20005338.png" width="400" height="280">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20005338.png" width="450" height="280">
 </p>
 
 ## Credits
