@@ -276,6 +276,4 @@ This Section provides a basic explanation of the code that is used in the robot
 <img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20014113.png" width="650" height="320">
 </p>
 
-## Credits
-
-We sincerely appreciate LEGO Education for their invaluable support and commitment to providing us with high-quality LEGO EV3 sets. Our gratitude also extends to the team sponsors: Premier of Sarawak; Ministry of Education Innovation and Talent Development Sarawak (MEITD); Yayasan Sarawak; Welfield Services SB; YB Mayor Adam Yii Siew Sang; and Alumni IPGKS-IPS-MPS.
+## <p align="center"><span style="font-size: 500px;">Thank you for your consideration and for reading through.</span></p>
