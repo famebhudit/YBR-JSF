@@ -243,6 +243,35 @@ This Section provides a basic explanation of the code that is used in the robot
 <img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011846.png" width="400" height="550">
 </p>
 
+<br></br>
+
+(b) Obstacle Challenge
+
+<br></br>
+1. Getting direction: The robot uses the gyro sensor to get the heading direction.
+<p align="center">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20005314.png" width="250" height="280">
+</p>
+<p align="center">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20005338.png" width="450" height="280">
+</p>
+
+<br></br>
+
+2. Avoid Walls: The robot uses ultrasonic to maintain the distance between the walls and the robots. When the robot gets closer to the wall, the steering will do a correction to avoid hitting the wall.
+<p align="center">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011047.png" width="450" height="280">
+</p>
+
+<br></br>
+
+3. Turning: The robot uses the bottom sensor to check the color line on the map. The information is used to determine the heading of the robot. The robot will run clockwise if it detects the orange line first and vice versa for the blue line.
+<p align="center">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011846.png" width="400" height="550">
+</p>
+
+<br></br>
+
 ## Credits
 
 We sincerely appreciate LEGO Education for their invaluable support and commitment to providing us with high-quality LEGO EV3 sets. Our gratitude also extends to the team sponsors: Premier of Sarawak; Ministry of Education Innovation and Talent Development Sarawak (MEITD); Yayasan Sarawak; Welfield Services SB; YB Mayor Adam Yii Siew Sang; and Alumni IPGKS-IPS-MPS.
