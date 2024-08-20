@@ -239,7 +239,9 @@ This Section provides a basic explanation of the code that is used in the robot
 <br></br>
 
 3. Turning: The robot uses the bottom sensor to check the color line on the map. The information is used to determine the heading of the robot. The robot will run clockwise if it detects the orange line first and vice versa for the blue line.
-
+<p align="center">
+<img src= "https://github.com/famebhudit/Robot_Image/blob/main/Screenshot%202024-08-21%20011846.png" width="380" height="480">
+</p>
 
 ## Credits
 
